@@ -21,6 +21,7 @@ tools:
 disallowedTools:
   - Agent
 effort: high
+model: opus
 ---
 
 # Role

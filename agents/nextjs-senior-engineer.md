@@ -23,6 +23,7 @@ skills:
 disallowedTools:
   - Agent
 effort: high
+model: opus
 ---
 
 # Role

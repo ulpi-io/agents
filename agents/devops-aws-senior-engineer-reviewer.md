@@ -23,6 +23,7 @@ disallowedTools:
   - Agent
 isolation: worktree
 effort: high
+model: opus
 ---
 
 # Role
